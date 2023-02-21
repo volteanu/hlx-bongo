@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Franklin experience discovery
+Experiments with Franklin 
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--hlx-bongo--volteanu.hlx.page/
+- Live: https://main--hlx-bongo--volteanu.hlx.live/
 
 ## Installation
 
